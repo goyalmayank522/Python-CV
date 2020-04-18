@@ -13,7 +13,7 @@ Opencv is a library used for Image processing means used to perform different ki
  
  ## Template Matching:
  It is a technique for finding areas of an image that are similar to a **patch**(template). A patch is a small image with certain features. The goal of template matching is to find the patch/template in an image.To find it, the user has to give two input images: Source Image (S) – The image to find the template in and Template Image (T) – The image that is to be found in the source image.
-  Here, **Source Image - full** and **Templage Image - face**
+  Here, **Source Image - full** and **Template Image - face**
  
  Using all the six methods for Template Matching, the Heatmap and corresponding image is shown using matplotlib library. Here is the example shown (Using cv2.TM_CCOEFF):
  
