@@ -17,6 +17,6 @@ Opencv is a library used for Image processing means used to perform different ki
  
  Using all the six methods for Template Matching, the Heatmap and corresponding image is shown using matplotlib library. In the shown example, the red colored box shows the template image identified using *cv2.TM_CCOEFF* method:
  
-![GitHub Logo](image1.png)
+![GitHub Logo](/image1.png)
  
  
